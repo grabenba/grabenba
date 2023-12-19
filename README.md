@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Grace. After a long career as a System Analyst Graduate, I am looking to reintegrate myself with new knowledge in Backend, Frontend and Data Science.
+### Hi there 👋 I'm Grace. After a long experience as a System Analyst Graduate, I am looking to boost my career with new knowledge in Backend, Frontend and Data Science.
 
 <!--
 **grabenba/grabenba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
